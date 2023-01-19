@@ -3,7 +3,8 @@
 #btn{
 	background:black;
 	color:white;
-	border-radis:5px;
+	border-radius:5px;
+	
 	
 }
 #btn:hover{
